@@ -39,4 +39,4 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use the 
 
 Thank you for visiting my portfolio website repository!
 
-\AMAN KUSHWAHA
+AMAN KUSHWAHA
